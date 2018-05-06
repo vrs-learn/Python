@@ -1,0 +1,17 @@
+missing module named resource - imported by posix, C:\Vaibhav\Learning\Python\scripts\Section16_Demonstration_of_Database_Application\frontend.py
+missing module named posix - imported by os, C:\Vaibhav\Learning\Python\scripts\Section16_Demonstration_of_Database_Application\frontend.py
+missing module named _posixsubprocess - imported by subprocess, C:\Vaibhav\Learning\Python\scripts\Section16_Demonstration_of_Database_Application\frontend.py
+missing module named 'org.python' - imported by pickle, C:\Vaibhav\Learning\Python\scripts\Section16_Demonstration_of_Database_Application\frontend.py, xml.sax
+missing module named readline - imported by cmd, code, pdb, C:\Vaibhav\Learning\Python\scripts\Section16_Demonstration_of_Database_Application\frontend.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, C:\Vaibhav\Learning\Python\scripts\Section16_Demonstration_of_Database_Application\frontend.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\Vaibhav\Learning\Python\scripts\Section16_Demonstration_of_Database_Application\frontend.py
+missing module named _winreg - imported by platform, C:\Vaibhav\Learning\Python\scripts\Section16_Demonstration_of_Database_Application\frontend.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, C:\Vaibhav\Learning\Python\scripts\Section16_Demonstration_of_Database_Application\frontend.py
+missing module named 'java.lang' - imported by platform, C:\Vaibhav\Learning\Python\scripts\Section16_Demonstration_of_Database_Application\frontend.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, C:\Vaibhav\Learning\Python\scripts\Section16_Demonstration_of_Database_Application\frontend.py
+missing module named termios - imported by tty, C:\Vaibhav\Learning\Python\scripts\Section16_Demonstration_of_Database_Application\frontend.py, getpass
+missing module named grp - imported by shutil, tarfile, C:\Vaibhav\Learning\Python\scripts\Section16_Demonstration_of_Database_Application\frontend.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, C:\Vaibhav\Learning\Python\scripts\Section16_Demonstration_of_Database_Application\frontend.py, netrc, getpass
+missing module named org - imported by copy, C:\Vaibhav\Learning\Python\scripts\Section16_Demonstration_of_Database_Application\frontend.py
+missing module named _dummy_threading - imported by dummy_threading, C:\Vaibhav\Learning\Python\scripts\Section16_Demonstration_of_Database_Application\frontend.py
