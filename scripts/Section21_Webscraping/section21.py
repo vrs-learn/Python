@@ -29,3 +29,8 @@ print(all[0].find_all("h2")[0].text) # This prints the first h2 element of the f
 
 for item in all:    # all is a list. so we can perform a loop on that list
     print(item.find_all("p")[0].text)
+
+#Testing the input from Atom.
+
+a = item.find_all("p")[0].text
+print(a)
